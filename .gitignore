@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Estado y salidas del monitor
+.stock30th_state.json
+state.json
+*.csv
+
+# Sistema
+.DS_Store
